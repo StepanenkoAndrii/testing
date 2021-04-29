@@ -11,7 +11,7 @@ namespace Task_3
 
         //task 1
 
-        /*IWebDriver driver;
+        IWebDriver driver;
         string Url = "http://rozklad.kpi.ua/Schedules/ScheduleGroupSelection.aspx";
         [SetUp]
         public void startBrowser()
@@ -44,9 +44,9 @@ namespace Task_3
         public void closeBrowser()
         {
             driver.Close();
-        }*/
+        }
 
-        /*//task 2 
+        //task 2 
         IWebDriver driver;
         string Url = "https://www.google.com/";
 
@@ -93,7 +93,7 @@ namespace Task_3
         public void closeBrowser()
         {
             driver.Close();
-        }*/
+        }
 
         //task 3 
         IWebDriver driver;
